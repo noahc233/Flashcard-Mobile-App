@@ -8,7 +8,7 @@
 - Delete current flashcard deck to create a new deck based on different material.
 
 ## Documentation / Wiki
-Main outline found in project Wiki:
+Full project outline found on project Wiki:
 https://github.com/noahc233/Flashcard-Mobile-App/wiki
 
 ## License
