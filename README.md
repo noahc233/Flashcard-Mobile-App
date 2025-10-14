@@ -14,5 +14,5 @@ https://github.com/noahc233/Flashcard-Mobile-App/wiki
 ## License
 This project is for educational purposes.
 
-## 📝 Changelog
+## Changelog
 
