@@ -1,0 +1,15 @@
+## Changelog
+- v0.0.1 2025-10-19 12:00
+  - Changed design layout due to technical constraints, all app functions moved to one singular fragment for simplicity. Updated the following project documents to reflect design changes:
+    - project README file
+    - project app wirframe file
+    - project wiki
+- v0.0.2 2025-10-19 14:03
+  - Finalized app layout xml file to incorperate all desired app functionality. App layout displays:
+    - Button to create, view and manipulate database (flashcard deck).
+    - Text fields for user input.
+    - Text fields acting as labels for user input fields.
+- v0.0.3 2025-10-19 15:42
+  - Finalized database intgration in the app. Ensures flashcard deck preservation after app shut down.
+- v0.1.0 2025-10-19 16:15
+  -  Final App build created and finalized. Added app code to GitHub repository.
